@@ -1,0 +1,6 @@
+Terrain Generation Libraries for Objective-C
+============================================
+
+So far, just HillTerrain.  See [the blog post][1] for details.
+
+[1]: http://www.kchodorow.com/blog/?p=2646
